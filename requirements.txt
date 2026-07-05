@@ -1,0 +1,76 @@
+###############################################################
+# Portfolio Management Optimization
+#
+# This project uses historical financial market data obtained
+# from Yahoo Finance (YFinance) to perform:
+#
+# • Financial Data Analysis
+# • Time Series Forecasting
+# • Portfolio Optimization
+# • Strategy Backtesting
+#
+# Author: Tsion Habte
+###############################################################
+
+########################
+# Core Data Processing
+########################
+
+numpy
+pandas
+
+########################
+# Visualization
+########################
+
+matplotlib
+seaborn
+plotly
+
+########################
+# Machine Learning
+########################
+
+scikit-learn
+
+########################
+# Statistical Time Series
+########################
+
+statsmodels
+pmdarima
+
+########################
+# Deep Learning
+########################
+
+tensorflow
+keras
+
+########################
+# Financial Data
+########################
+
+yfinance
+
+########################
+# Portfolio Optimization
+########################
+
+PyPortfolioOpt
+scipy
+
+########################
+# Notebook Environment
+########################
+
+jupyter
+notebook
+ipykernel
+
+########################
+# Utility Packages
+########################
+
+missingno
+tabulate

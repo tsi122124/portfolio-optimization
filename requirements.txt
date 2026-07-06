@@ -9,7 +9,7 @@
 # • Portfolio Optimization
 # • Strategy Backtesting
 #
-# Author: Tsion Habte
+# Author: Tsion Habtesilassei
 ###############################################################
 
 ########################
